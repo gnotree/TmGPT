@@ -16,9 +16,12 @@ sudo cp TmGPT.py /usr/local/bin/
 
 echo "TmGPT successfully installed to /usr/local/bin/"
 
-#Terminal GPT - Version 1.2 - Developed by GTAI
+#Terminal GPT - Version 1.2, updated February 15th, 2023 - Developed by GTAI
 #In the updated .sh file, we first install the OpenAI packages and then create a TmGPT script that runs the TmGPT.py file using the python3 command. 
 #We use $(dirname "$0") to get the path of the directory where the TmGPT script is located, so that we can reference the TmGPT.py file in the same directory.
 #After creating the TmGPT script, we move it to /usr/local/bin/ using sudo mv, and then we copy the TmGPT.py file to the same directory using sudo cp. 
 #This ensures that both the TmGPT script and the TmGPT.py file are in the same directory, and the script can access the file using the relative path.
 #Finally, we print a message to the user indicating that the installation was successful.
+#Any advice, recommendations, and/or if you are looking to help out/get involved, contact me at admin@gtai.io!
+#This project is open-sourced, all I ask is if you like or enjoy the program, then please share it!
+#Terminal GPT - Version 1.2, updated February 15th, 2023 - https://gtai.io
