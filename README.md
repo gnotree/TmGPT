@@ -1,11 +1,11 @@
 # TmGPT
 Terminal GPT (Open AI's API implemented into a Python program that can be accessed from terminal)
 
-Installation guide [ONE STEP] -- Terminal GPT [Version 1.1] -- February 13th, 2023
+Installation guide [TWO STEP] -- Terminal GPT [Version 1.1] -- February 13th, 2023
 
 * [Step 1]: TO INSTALL, OPEN 'install_TmGPT.sh' with Terminal.
-
-* [DONE]: TmGPT is now installed! 
+* [Step 2]: Open the TmGPT.py file and paste your own free, custom OpenAI API key where it says "pasteYourKeyHere"
+[DONE]: TmGPT is now installed! 
 
 Type 'TmGPT' in Terminal to use and run GTAI's TerminalGPT! 
 Enjoy!
@@ -25,5 +25,5 @@ Any advice, recommendations, or if you are looking to help out/get involved, con
 
 This project is open-sourced, all I ask is if you like or enjoy the program, then please share it! :)
 
-Terminal GPT [Version 1.0] -- Updated: February 7th, 2023 -- GTAI.io
+Terminal GPT [Version 1.1] -- Updated: February 13th, 2023 -- GTAI.io
 
