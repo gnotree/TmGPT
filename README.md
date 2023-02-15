@@ -25,7 +25,7 @@ The three tips provided below are all [optional], but may further help you under
 	
 Any advice, recommendations, or if you are looking to help out/get involved, contact me at admin@gtai.io!
 
-This project is open-sourced, all I ask is if you like or enjoy the program, then please share it! :)
+This project is open-sourced, all I ask is if you like or enjoy the program, then please share it!
 
 Terminal GPT [Version 1.2] -- Updated: February 15th, 2023 -- GTAI.io
 
