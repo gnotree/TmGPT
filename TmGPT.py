@@ -8,12 +8,12 @@ openai.api_key = "pasteYourOwnOpenAIKeyInTheQuotes"
 user_prompt = ""
 count = 0
 
-print("$" * 48)
-print("[TmGPT] -- (V1.1) -- {Engine ID: DaVinci 003}")
-print("Updated 02/13/2023 | <Programmed by GTAI.io> ")
-print("*" * 48)
+print("$" * 55)
+print("[TmGPT] -- (V 1.2) -- {Engine ID: DaVinci 003}")
+print("Febrary 15th Version (1.2) | <Programmed by GTAI.io> ")
+print("*" * 55)
 print("[NOTE]:To QUIT the program, enter  '-1'")
-print("*" * 48)
+print("*" * 55)
 print(" ")
 print("Welcome to GTAI's [Terminal GPT]...")
 print(" ")
@@ -32,7 +32,7 @@ while user_prompt != "-1" :
         # To adjust the depth of response, you can set the temperature to a lower value (e.g. 0.5) to generate more
         # conservative responses, or a higher value (e.g. 1.0) to generate more creative and diverse responses.
         response = completions.choices[0].text
-        print("[TmGPT]: " + response + "\n" + "-"*48)
+        print("[TmGPT]: " + response + "\n" + "-"*55)
 
 if user_prompt == "-1":
-    print("[TmGPT]:" + "\n" + "NO DATA or a NEGATIVE value was entered by the user. TerminalGPT [GTAI.io, V1.0] will now quit.")
+    print("[TmGPT]:" + "\n" + "NO DATA or a NEGATIVE value was entered by the user. TerminalGPT [GTAI's Version 1.2 | Updated Feb. 15th, 2023] will now quit .")
